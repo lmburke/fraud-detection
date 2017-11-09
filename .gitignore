@@ -1,0 +1,8 @@
+## Data source
+creditcard.csv
+
+## Saved visualizations
+graphics/*
+
+## Jupyter notebook
+.ipynb_checkpoints/*
